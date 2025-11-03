@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import CafeInfo from "../CafeInfo/CafeInfo"
 import VoteOptions from "../VoteOptions/VoteOptions";
